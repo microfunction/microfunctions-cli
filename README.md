@@ -27,7 +27,7 @@ $ cd  my-function
 $ npm run start
 ```
 ## Command overview
-````
+```
 Command	Alias	Description
 new	n	Scaffolds a new function with all boilerplate files needed to run.
 
@@ -35,7 +35,7 @@ deploy  d	Deploy microfunction .
 
 replicas r	Replicas microfunction (A ReplicaSets purpose is to maintain a stable set of replica Pods running at any given time. As such, it is often used to guarantee the availability of a specified number of identical Pods.).
 
-``
+```
 ## Usage
 
 Learn more in the [official documentation](https://microfunction.io/docs).
